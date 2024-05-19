@@ -81,4 +81,4 @@ npm run test
 
 ## Deployment 🌏✔
 
-The application is deployed to web using vercel and the application can be accessed through <br><a> https://nasa-api-lyart.vercel.app/ </a>
+The application is deployed to web using vercel and the application can be accessed through <br><a> https://nasa-api-jet.vercel.app/ </a>
