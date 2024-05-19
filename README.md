@@ -1,7 +1,5 @@
 # NASA API 🌏🚀
 
-### IT21258626 | Munasinghe J R 
-
 ## Description 📗
 
 This is a project done for the year 3 semester 2 Application Frameworks module. The project has incorporated APIs from NASA API storage and utilized them to depict the data in a user-friendly manner.
